@@ -2,7 +2,7 @@
  "hologram": 1,
  "root": "c223bd4a2f6a56783c1fbdb1b1f671fa61c3150ecf320c82796ea5763043a696",
  "n": 73,
- "storage": 68,
+ "storage": 36,
  "r": 3,
  "self": {
   "name": "kb",
@@ -304,5 +304,30 @@
    "hash": "de0df46af273e6d90efb2731a14536ac56381bd3680d442fbe68512e93167bdd"
   }
  ],
- "flesh": []
+ "flesh": [
+  {
+   "name": "domovenok",
+   "desc": "🏠 Командный центр дома: задачи, комнаты, расходы и индекс порядка. Next.js 16 · TypeScript · Prisma · Vitest · зелёный CI",
+   "lang": "TypeScript",
+   "cluster": ""
+  },
+  {
+   "name": "domovoy-tweaker",
+   "desc": "ДОМОВОЙ / MEGA=TWEAKER — Windows tweaker as a state, not an event: change ledger, drift sentinel, per-feature undo, effect verification. PowerShell prototype.",
+   "lang": "PowerShell",
+   "cluster": "OS"
+  },
+  {
+   "name": "free-man",
+   "desc": "FREE MAN 0.2.2 — browser autonomy for Chrome MV3. 108 tracker/ads/CNAME domains blocked 100% on-device. No account, no cloud, no telemetry.",
+   "lang": "Python",
+   "cluster": ""
+  },
+  {
+   "name": "yazyk-skvoz-epohi",
+   "desc": "Язык сквозь эпохи · Дом-Автомат v21 — семиэпохальное эссе, построенное как детерминированный конечный автомат (DFA). Seven epochs × seven cyrillic fonts × three story layers, shipped as a finite autom",
+   "lang": "HTML",
+   "cluster": ""
+  }
+ ]
 }
