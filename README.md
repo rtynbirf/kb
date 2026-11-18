@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" width="100%" alt="штандарт kb" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/kb@main/banner.png" width="100%" alt="штандарт kb" />
 </div>
 
 <!--ФОРЖ:ПАСПОРТ:НАЧАЛО-->
@@ -13,7 +13,7 @@
 <!--ФОРЖ:ПАСПОРТ:КОНЕЦ-->
 
 <div align="center">
-  <img src="forge-divider.svg" width="62%" alt="делитель МАСТЕРСКАЯ ЗНАНИЙ" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/kb@main/forge-divider.svg" width="62%" alt="делитель МАСТЕРСКАЯ ЗНАНИЙ" />
 </div>
 
 # kb — ЗНАНИЯ ДОМА
