@@ -4,9 +4,13 @@
 
 </div>
 
+<!--ФОРЖ:МУЗА:НАЧАЛО-->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/kb@main/banner.png" width="100%" alt="штандарт kb" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/kb@main/repo-muse.svg" width="100%" alt="Муза kb: мастерская КУЗНЯ ПОЛИМАТ, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/kb@main/forge-divider.svg" width="62%" alt="делитель мастерской КУЗНЯ ПОЛИМАТ" />
 </div>
+<!--ФОРЖ:МУЗА:КОНЕЦ-->
 
 <!--ФОРЖ:ПАСПОРТ:НАЧАЛО-->
 <div align="center">
@@ -15,8 +19,24 @@
 
 | ФАЙЛОВ | ПАПОК | КОММИТОВ | ОБНОВЛЕНО | РЕЛИЗОВ |
 |---:|---:|---:|---|---:|
-| 36 | 8 | 117 | 2026-11-28 | 0 |
+| 36 | 9 | 1 | 2026-11-28 | 0 |
 <!--ФОРЖ:ПАСПОРТ:КОНЕЦ-->
+
+# kb
+
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/rtynbirf/kb@main/.github/social-preview.png" alt="kb" width="100%"></p>
+
+<div align="center">
+
+<a href="https://github.com/rtynbirf/kb"><img src="banner.png" width="100%" alt="kb — штандарт мастерской в каноне ORNAMENTAL MYTHO-REALISM"></a>
+
+</div>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/kb@main/banner.png" width="100%" alt="штандарт kb" />
+</div>
+
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/rtynbirf/kb@main/forge-divider.svg" width="62%" alt="делитель МАСТЕРСКАЯ ЗНАНИЙ" />
@@ -40,3 +60,5 @@
 - Знания имеют АДРЕС и ДАТУ: файл знает, откуда взят (ссылка/SHA) и когда положен.
 - Оригинал знания не дублируется: если канон живёт в `edinyy-svod` — здесь только указатель.
 - Изменения канона — только по процедуре канона (статья 97), не тихой правкой.
+
+<!--ФОРЖ:ПОДВАЛ-->
